@@ -55,3 +55,8 @@ Aqui você poderá acompanhar minha evolução, meus estudos e os projetos que v
 **Obrigado pela visita! 🚀**
 
 
+
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/140651e4-6caf-4e73-8be5-1d656d6897af" />
+
+
+
