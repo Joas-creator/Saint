@@ -60,3 +60,5 @@ Aqui você poderá acompanhar minha evolução, meus estudos e os projetos que v
 
 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Joas-creator&include_all_commits=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=Joas-creator&include_all_commits=true&theme=calm_pink)
+
