@@ -56,7 +56,7 @@ Aqui você poderá acompanhar minha evolução, meus estudos e os projetos que v
 
 
 
-<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/140651e4-6caf-4e73-8be5-1d656d6897af" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Joas-creator&layout=donut-vertical&langs_count=4&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=Joas-creator&layout=donut-vertical&langs_count=4&theme=calm_pink)
 
 
 
